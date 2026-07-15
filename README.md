@@ -1,4 +1,4 @@
-# Post-OOBE
+# Post-OOBE （moved to another repo 【vincent-env!](https://github.com/BabyKnight/vincent-env)）
 
 ## About
 A Debian Package which packaging individual settings, resources and scripts for rapid setup when moving to a new machine.  
